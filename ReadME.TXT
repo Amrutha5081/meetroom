@@ -13,6 +13,8 @@ npm install
 npm start
 
 
+live link of the demo : https://meetroom-i5gcmnbzi-amrutha5081.vercel.app/
+
 DATABASE STRUCTURE:
  CREATE TABLE `rooms` (
   `id` int NOT NULL AUTO_INCREMENT,
