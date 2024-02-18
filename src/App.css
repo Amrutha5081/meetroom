@@ -1,0 +1,37 @@
+body {
+  background-image: url('https://wallpapers.com/images/hd/blue-geometric-3czk5v4oho49zcie.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 100%;
+  display: flex;
+  
+  backface-visibility: hidden;
+
+  justify-content: center;
+  align-content: center;
+  width: 100%;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.large-bold-text {
+  font-size: 55px;
+  font-weight: bold;
+}
+.box {
+  border: 1px solid #dfd8d8;
+  background-color: #fff;
+}
+
+.g-btn {
+  width: 100% !important;
+  height: 40px !important;
+  line-height: 40px !important;
+  font-size: 15px !important;
+}
+.g-btn > div,
+.g-btn > div > svg {
+  width: 40px !important;
+  height: 38px !important;
+}
